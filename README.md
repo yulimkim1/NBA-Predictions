@@ -22,13 +22,3 @@ In this repositiory you will find our Rmd notebook files for both the cleaning a
 `Predictions_FINAL.csv`: CSV file containing our final predictions. <br>
 `2023_NBA_Predictions_Report.pdf`: Final report with our methodologies for the whole project. <br>
 
-### RMSE of NBA Predictions
-
-|              | Spread | Total Points | Offensive Rebounds |
-|--------------|-------:|-------------:|-------------------:|
-| **April 4**  |       |              |                     |
-| **April 5**  |       |              |                     |
-| **April 6**  |       |              |                     |
-| **April 7**  |       |              |                     |
-| **April 8**  |       |              |                     |
-| **April 9**  |       |              |                     |
